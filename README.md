@@ -1,5 +1,5 @@
 # FactoryMethod - Faculdade Senac de Pelotas / RS
-Padrão de Projeto Factory Method em Java
+Factory Method em Java
 
 
 * Introdução:
