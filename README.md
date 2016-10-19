@@ -4,7 +4,7 @@ Factory Method em Java
 
 * Introdução:
 
-Este projeto é a elaboração de um sistema com o pradão de desenvolvimento 'Factory Method' na linguagem de programação *Java*.
+Este projeto é a elaboração de um sistema com o padrão de desenvolvimento 'Factory Method' na linguagem de programação *Java*.
 
 
 * Factory Method: 
